@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"allMicrocmsNews":{"edges":[{"node":{"newsId":"rd-5fvymu","title":"あいうえお"}},{"node":{"newsId":"7n0zf5mi9","title":"テスト投稿"}},{"node":{"newsId":"jr5fs40jo","title":"2月21日"}},{"node":{"newsId":"x6mouutme","title":"2/17日"}},{"node":{"newsId":"829urzkmw","title":"ワールドトリガーコラボ開催中"}},{"node":{"newsId":"h61e0tm7l4y","title":"ドームツアー決定"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["4202924991"]}
