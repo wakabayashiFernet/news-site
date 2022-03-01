@@ -25,9 +25,6 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-plugin-layout`,
-      options: {
-        component: require.resolve(`./src/components/layout.js`),
-      },
       resolve: 'gatsby-source-microcms',
       options: {
         apiKey: '367f180dc7cf4db6b7fa14a0b7b7eb51ed5c',
