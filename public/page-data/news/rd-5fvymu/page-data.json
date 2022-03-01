@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/rd-5fvymu/",
+    "result": {"data":{"microcmsNews":{"newsId":"rd-5fvymu","title":"あいうえお","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"ac551e6e-7d1f-5d64-8bdc-62315ef2e8c1","newsId":"rd-5fvymu","__params":{"newsId":"rd-5fvymu"}}},
+    "staticQueryHashes": ["4202924991"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/x6mouutme/",
+    "result": {"data":{"microcmsNews":{"newsId":"x6mouutme","title":"2/17日","body":"<p>今日は何もない日です。</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"c4ca8ec6-1fd4-56b0-a61c-c489ca6fe991","newsId":"x6mouutme","__params":{"newsId":"x6mouutme"}}},
+    "staticQueryHashes": ["4202924991"]}

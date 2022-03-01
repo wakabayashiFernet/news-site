@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/7n0zf5mi9/",
+    "result": {"data":{"microcmsNews":{"newsId":"7n0zf5mi9","title":"テスト投稿","body":"<p>あいうえお</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"b7919e8e-a2e9-5406-a950-cd4166a5f7fb","newsId":"7n0zf5mi9","__params":{"newsId":"7n0zf5mi9"}}},
+    "staticQueryHashes": ["4202924991"]}
