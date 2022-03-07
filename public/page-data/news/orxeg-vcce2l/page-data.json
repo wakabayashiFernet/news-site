@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
     "path": "/news/orxeg-vcce2l/",
-    "result": {"data":{"microcmsNews":{"newsId":"orxeg-vcce2l","title":"3/1２個目","body":"<p>テスト</p>","writer":null}},"pageContext":{"id":"fad6fd35-d561-5ad1-ac75-94abef69e040","newsId":"orxeg-vcce2l","__params":{"newsId":"orxeg-vcce2l"}}},
+    "result": {"data":{"microcmsNews":{"newsId":"orxeg-vcce2l","title":"3/1２個目","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"fad6fd35-d561-5ad1-ac75-94abef69e040","newsId":"orxeg-vcce2l","__params":{"newsId":"orxeg-vcce2l"}}},
     "staticQueryHashes": ["4202924991"]}

@@ -1,0 +1,29 @@
+div {
+  }
+
+li {
+    color: green;
+    padding-top: 24px;
+    list-style: none;
+    font-size: 16px;
+}
+
+header {
+    background-color: black;
+    color: white;
+    width: 100%;
+    font-size: 32px;
+    padding-left: 24px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+a {
+    color: black;
+}
+
+.container {
+    margin: 10%;
+}

@@ -3,6 +3,7 @@ import { graphql, Link } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { Style } from "../../.cache/loading-indicator/style"
 
 // export default function Home() {
 //   return <div>Hello world!</div>
@@ -11,7 +12,10 @@ import SEO from "../components/seo"
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
-    <ul>
+    <header>
+      Blog
+    </header>
+    <ul className = {Style.blue}>
       {data.allMicrocmsNews.edges.map(({ node }) => (
         <li key={node.newsId}>
           <Link to={`/news/${node.newsId}`}>{node.title}</Link>

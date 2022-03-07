@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/ea-htzkrh6/",
+    "result": {"data":{"microcmsNews":{"newsId":"ea_htzkrh6","title":"追加","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"0bc0e438-da0b-59f1-adbf-594507efaec5","newsId":"ea_htzkrh6","__params":{"newsId":"ea-htzkrh6"}}},
+    "staticQueryHashes": ["4202924991"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/t-ejlhmalb/",
+    "result": {"data":{"microcmsNews":{"newsId":"t__ejlhmalb","title":"タイトル","body":"<p>本文</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"622c599a-4bdb-539f-aabd-4a9ddcd4fca2","newsId":"t__ejlhmalb","__params":{"newsId":"t-ejlhmalb"}}},
+    "staticQueryHashes": ["4202924991"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/cin8tma010/",
+    "result": {"data":{"microcmsNews":{"newsId":"cin8tma010","title":"3/7 2個目","body":"<p>テストテスト</p>","writer":{"writer":"あいうえお"}}},"pageContext":{"id":"147f3fa4-825a-5786-8bd2-092d6801a4b9","newsId":"cin8tma010","__params":{"newsId":"cin8tma010"}}},
+    "staticQueryHashes": ["4202924991"]}

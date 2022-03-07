@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/dyhiysbroib/",
+    "result": {"data":{"microcmsNews":{"newsId":"dyhiysbroib","title":"3/7 テスト１","body":"<p>テストテキスト</p>","writer":{"writer":"あいうえお"}}},"pageContext":{"id":"d5fa3f11-1f4b-5cd9-b9ec-5bcbd5947bf9","newsId":"dyhiysbroib","__params":{"newsId":"dyhiysbroib"}}},
+    "staticQueryHashes": ["4202924991"]}
