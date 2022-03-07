@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/test37/",
+    "result": {"data":{"microcmsNews":{"newsId":"test37","title":"テスト3/7 タイトル","body":"<p>テストテスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"67c99aea-b0d3-59b5-8d75-069f2351971f","newsId":"test37","__params":{"newsId":"test37"}}},
+    "staticQueryHashes": ["4202924991"]}
