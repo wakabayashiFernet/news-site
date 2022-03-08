@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
+    "path": "/news/sg4rv9vr9d/",
+    "result": {"data":{"microcmsNews":{"newsId":"sg4rv9vr9d","title":"R会議","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"3c746a5a-86bd-5388-88ac-27555ee991d4","newsId":"sg4rv9vr9d","__params":{"newsId":"sg4rv9vr9d"}}},
+    "staticQueryHashes": ["4202924991"]}
