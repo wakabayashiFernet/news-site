@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-news-microcms-news-news-id-js",
     "path": "/news/zwm8sqzq0ez/",
-    "result": {"data":{"microcmsNews":{"newsId":"zwm8sqzq0ez","title":"タイトル2","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"e36cafe7-e1e4-5f94-bdd2-5e826f65d368","newsId":"zwm8sqzq0ez","__params":{"newsId":"zwm8sqzq0ez"}}},
+    "result": {"data":{"microcmsNews":{"newsId":"zwm8sqzq0ez","title":"5.タイトル2","body":"<p>テスト</p>","writer":{"writer":"若林真由"}}},"pageContext":{"id":"e36cafe7-e1e4-5f94-bdd2-5e826f65d368","newsId":"zwm8sqzq0ez","__params":{"newsId":"zwm8sqzq0ez"}}},
     "staticQueryHashes": ["4202924991"]}
